@@ -17,40 +17,25 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>iaf</item>
-	<item>iaf1</item>        
+        <item>iaf</item>       
 	<item>iaf2</item>
-        <item>iaf3</item>
-        <item>iaf4</item>
-        <item>iaf5</item>
-        <item>iaf6</item>
-        <item>iaf7</item>
-        <item>iaf8</item>
-        <item>iaf9</item>
+        <item>android</item>
+        <item>androidgreen</item>
+        <item>astoundingcolors</item>
+        <item>solar</item>
         <item>iaf10</item>
-        <item>iaf11</item>
         <item>iaf12</item>
-        <item>iaf13</item>
-        <item>iaf14</item>
-        <item>sapphire</item>
     </string-array>
 
     <string-array name="info" translatable="false">
         <item>iceandfire :: Zpecter</item>
-        <item>Abstract White :: Zpecter</item>
         <item>Colors :: Zpecter</item>
-        <item>Abstract Blue :: Zpecter</item>
-        <item>Purple :: Zpecter</item>
-        <item>Rainbow :: Zpecter</item>
-        <item>Purple White :: Zpecter</item>
+        <item>Android Rush :: Adam80460</item>
+        <item>Android Green :: Adam80460</item>
+        <item>Astounding Colors :: Unknown</item>
+        <item>Solar :: Adam80460</item>
         <item>Purple Rush :: Zpecter</item>
-        <item>StarWars :: Zpecter</item>
-        <item>StarWars2 :: Zpecter</item>
         <item>Carbon Fibre :: Zpecter</item>
-        <item>Logs :: Zpecter</item>
         <item>Lines :: Zpecter</item>
-        <item>Blue-Orange :: Zpecter</item>
-        <item>Shapes :: Zpecter</item>
-        <item>Sapphire :: ArunjitOberoi</item>
     </string-array>
 </resources>
