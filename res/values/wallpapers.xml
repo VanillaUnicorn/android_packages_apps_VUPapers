@@ -25,6 +25,10 @@
         <item>solar</item>
         <item>iaf10</item>
         <item>iaf12</item>
+	<item>xenonhd1</item>
+	<item>xenonhd2</item>
+	<item>xenonhd3</item>
+	<item>xenonhd4</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -36,5 +40,9 @@
         <item>Solar :: Adam80460</item>
         <item>Carbon Fibre :: Zpecter</item>
         <item>Lines :: Zpecter</item>
+	<item>XenonHD :: RickerBilly</item>
+	<item>XenonHD Blue :: RickerBilly</item>
+	<item>Xe :: RickerBilly</item>
+	<item>Element Xenon :: RickerBilly</item>	
     </string-array>
 </resources>
