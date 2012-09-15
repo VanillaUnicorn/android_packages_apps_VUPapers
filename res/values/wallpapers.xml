@@ -17,22 +17,22 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>iaf</item>       
-	<item>iaf2</item>
-        <item>android</item>
-        <item>androidgreen</item>
-        <item>astoundingcolors</item>
-        <item>solar</item>
-        <item>iaf10</item>
+		<item>iaf</item>
+		<item>iaf2</item>
+		<item>android</item>
+		<item>androidgreen</item>
+		<item>astoundingcolors</item>
+		<item>solar</item>
+		<item>iaf10</item>
         <item>iaf12</item>
-	<item>xenonhd1</item>
-	<item>xenonhd2</item>
-	<item>xenonhd3</item>
-	<item>xenonhd4</item>
-    </string-array>
+		<item>xenonhd1</item>
+		<item>xenonhd2</item>
+		<item>xenonhd3</item>
+		<item>xenonhd4</item>
+   		</string-array>
 
     <string-array name="info" translatable="false">
-        <item>iceandfire :: Zpecter</item>
+    	<item>iceandfire :: Zpecter</item>
         <item>Colors :: Zpecter</item>
         <item>Android Rush :: Adam80460</item>
         <item>Android Green :: Adam80460</item>
@@ -40,9 +40,9 @@
         <item>Solar :: Adam80460</item>
         <item>Carbon Fibre :: Zpecter</item>
         <item>Lines :: Zpecter</item>
-	<item>XenonHD :: RickerBilly</item>
-	<item>XenonHD Blue :: RickerBilly</item>
-	<item>Xe :: RickerBilly</item>
-	<item>Element Xenon :: RickerBilly</item>	
+		<item>XenonHD :: RickerBilly</item>
+		<item>XenonHD Blue :: RickerBilly</item>
+		<item>Xe :: RickerBilly</item>
+		<item>Element Xenon :: RickerBilly</item>
     </string-array>
 </resources>
