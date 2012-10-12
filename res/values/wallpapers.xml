@@ -17,6 +17,8 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
+		<item>xehdgraphite</item>
+		<item>xehdflat</item>
 		<item>iaf</item>
 		<item>iaf2</item>
 		<item>android</item>
@@ -29,10 +31,19 @@
 		<item>xenonhd2</item>
 		<item>xenonhd3</item>
 		<item>xenonhd4</item>
+		<item>xenon5</item>
+		<item>xenon6</item>
+		<item>xenon7</item>
+		<item>xenon8</item>
+		<item>xenon9</item>
+		<item>xenon10</item>
+		
    		</string-array>
 
     <string-array name="info" translatable="false">
-    	<item>iceandfire :: Zpecter</item>
+    	<item>XeHD Graphite :: JaiThemes</item>
+		<item>XeHD Flat :: JaiThemes</item>
+		<item>iceandfire :: Zpecter</item>
         <item>Colors :: Zpecter</item>
         <item>Android Rush :: Adam80460</item>
         <item>Android Green :: Adam80460</item>
@@ -44,5 +55,11 @@
 		<item>XenonHD Blue :: RickerBilly</item>
 		<item>Xe :: RickerBilly</item>
 		<item>Element Xenon :: RickerBilly</item>
+		<item>Dark Xenon :: Dominik Horvath</tem>
+		<item>Gold XenonHD :: wad3g</item>
+		<item>Xenon :: wad3g</item>
+		<item>Xenon :: wad3g</item>
+		<item>Gradient :: Dominik Horvath</item>
+		<item>XenonHD :: Dominik Horvath</item>
     </string-array>
 </resources>
