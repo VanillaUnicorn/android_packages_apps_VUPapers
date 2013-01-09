@@ -19,6 +19,7 @@
     <string-array name="wallpapers" translatable="false">
 		<item>xehdgraphite</item>
 		<item>xehdflat</item>
+		<item>light</item>
 		<item>iaf</item>
 		<item>iaf2</item>
 		<item>android</item>
@@ -42,7 +43,8 @@
 
     <string-array name="info" translatable="false">
     	<item>XeHD Graphite :: JaiThemes</item>
-		<item>XeHD Flat :: JaiThemes</item>
+		<item>XeHD :: iceandfire</item>
+		<item>XeHD Light :: iceandfire</item>
 		<item>iceandfire :: Zpecter</item>
         <item>Colors :: Zpecter</item>
         <item>Android Rush :: Adam80460</item>
