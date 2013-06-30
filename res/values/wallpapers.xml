@@ -9,15 +9,15 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>wallpaper_0</item>
-        <item>wallpaper_1</item>
-        <item>wallpaper_2</item>
-        <item>wallpaper_3</item>
-        <item>wallpaper_4</item>
-        <item>wallpaper_5</item>
-        <item>wallpaper_6</item>
-        <item>wallpaper_7</item>
-        <item>wallpaper_8</item>
+    <item>wallpaper_0</item>
+    <item>wallpaper_1</item>
+    <item>wallpaper_2</item>
+    <item>wallpaper_3</item>
+    <item>wallpaper_4</item>
+    <item>wallpaper_5</item>
+    <item>wallpaper_6</item>
+    <item>wallpaper_7</item>
+    <item>wallpaper_8</item>
 	<item>wallpaper_9</item>
 	<item>wallpaper_10</item>
 	<item>wallpaper_11</item>
@@ -36,18 +36,19 @@
 	<item>wallpaper_24</item>
 	<item>wallpaper_25</item>
 	<item>wallpaper_26</item>
+	<item>wallpaper_27</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>IceandFire :: Zpecter</item>
-        <item>Colors :: Zpecter</item>
-        <item>Astounding Colors</item>
-        <item>Carbon Fibre :: Zpecter</item>
-        <item>Lines :: Zpecter</item>
-        <item>XeHD Graphite :: JaiThemes</item>
-        <item>XeHD :: iceandfire</item>
-        <item>XeHD Light :: iceandfire</item>
-        <item>XenonHD :: RickerBilly</item>
+    <item>IceandFire :: Zpecter</item>
+    <item>Colors :: Zpecter</item>
+    <item>Astounding Colors</item>
+    <item>Carbon Fibre :: Zpecter</item>
+    <item>Lines :: Zpecter</item>
+    <item>XeHD Graphite :: JaiThemes</item>
+    <item>XeHD :: iceandfire</item>
+    <item>XeHD Light :: iceandfire</item>
+    <item>XenonHD :: RickerBilly</item>
 	<item>XenonHD Blue :: RickerBilly</item>
 	<item>Xe :: RickerBilly</item>
 	<item>Element Xenon :: RickerBilly</item>
@@ -66,5 +67,6 @@
 	<item>XenonHD :: Vicino</item>
 	<item>XenonHD :: Vicino</item>
 	<item>XenonHD :: Vicino</item>
+	<item>Proto :: Pr0xyMan1ac</item>
     </string-array>
 </resources>
