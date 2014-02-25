@@ -1,4 +1,4 @@
-android_packages_apps_VUPapers
+Credits
 ==============================
 
 Based on Xenons Wallpaper apps !
